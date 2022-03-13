@@ -1,0 +1,8 @@
+export const ADD_EMPLOYEE="ADD_EMPLOYEE";
+export const GET_DATA="GET_DATA";
+export const GET_EOMDATA="GET_EOMDATA";
+export const UPDATE_EMPLOYEE="UPDATE_EMPLOYEE";
+export const DELETE_EMPLOYEE="DELETE_EMPLOYEE";
+export const CLONE_TODO="CLONE_TODO";
+export const SET_CURRENT="SET_CURRENT";
+export const SET_EOM="SET_EOM";

@@ -1,0 +1,7 @@
+.main{
+    display: flex;
+    background-color: rgb(204 204 204 / 17%);
+}
+.card-div{
+    display: flex;
+}

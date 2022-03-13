@@ -1,0 +1,94 @@
+{
+  "employeeData": [
+    {
+      "name": "Suman Lama",
+      "position": "React js developer",
+      "address": "Lalitpur,Nepal",
+      "image": "http://res.cloudinary.com/aunep/image/upload/v1647148857/ljde336hvfsm2lbvj2up.jpg",
+      "rdate": "0123-11-24",
+      "eom": null,
+      "phone": "980876543",
+      "email": "samir@gmail.com",
+      "id": 29
+    },
+    {
+      "name": "Roman Shrestha",
+      "position": "Projcet Manager",
+      "address": "Balkumari,Lalitpur-Nepal",
+      "rdate": "2019-12-02",
+      "image": "http://res.cloudinary.com/aunep/image/upload/v1647150236/ndxylbin2t98sugh6bif.jpg",
+      "eom": "",
+      "email": "shyam1@gmail.com",
+      "phone": "9890765441",
+      "id": 30
+    },
+    {
+      "name": "Sabin Kumar Shrestha",
+      "position": "React Native developer",
+      "address": "Patan,Lalitpur",
+      "image": "http://res.cloudinary.com/aunep/image/upload/v1647150453/wm7umysxgzvl0g5y1eba.jpg",
+      "rdate": "2018-12-31",
+      "eom": null,
+      "phone": "9808765",
+      "email": "sabina@gmail.com",
+      "id": 31
+    },
+    {
+      "name": "Sabina karki",
+      "position": "QA",
+      "address": "Bhaktpur Nepal",
+      "rdate": "2010-08-12",
+      "image": "http://res.cloudinary.com/aunep/image/upload/v1647150615/spsji5t2qi1pty696uqi.jpg",
+      "eom": "",
+      "email": "sabina@gmail.com",
+      "phone": "980876576",
+      "id": 33
+    },
+    {
+      "name": "Susmita Karki",
+      "position": "React js Developer",
+      "address": "Kamalpokhari",
+      "rdate": "2021-02-12",
+      "image": "http://res.cloudinary.com/aunep/image/upload/v1647150711/gytex79rr8gcot0qg9in.jpg",
+      "eom": "",
+      "email": "susmita@gmail.com",
+      "phone": "980865765",
+      "id": 34
+    },
+    {
+      "name": "Bishnu Thapa",
+      "position": "CEO",
+      "address": "Sadobato,Lalitpur",
+      "image": "http://res.cloudinary.com/aunep/image/upload/v1647156034/vfrrautzlyh1ldvumehn.jpg",
+      "rdate": "2012-12-22",
+      "eom": null,
+      "phone": "980865454",
+      "email": "Bishnu@gmail.com",
+      "id": 35
+    }
+  ],
+  "eomdata": [
+    {
+      "name": "Shyam Kumar Karki",
+      "position": "Projcet Manager",
+      "address": "Balkumari,Lalitpur-Nepal",
+      "rdate": "2019-12-02",
+      "image": "http://res.cloudinary.com/aunep/image/upload/v1647150236/ndxylbin2t98sugh6bif.jpg",
+      "eom": "",
+      "email": "shyam1@gmail.com",
+      "phone": "9890765441",
+      "id": 30
+    },
+    {
+      "name": "Sabin Kumar Shrestha",
+      "position": "React Native developer",
+      "address": "Patan,Lalitpur",
+      "image": "http://res.cloudinary.com/aunep/image/upload/v1647150453/wm7umysxgzvl0g5y1eba.jpg",
+      "rdate": "2018-12-31",
+      "eom": null,
+      "phone": "9808765",
+      "email": "sabina@gmail.com",
+      "id": 31
+    }
+  ]
+}
